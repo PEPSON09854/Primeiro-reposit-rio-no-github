@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../arquivos_contador/imagem/wolves-g3c6110234_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    position: relative;
+    top: -100px;
+    font-family: fantasy;
+    color: rgb(254, 101, 45);
+    text-shadow: 2px 1px black;
+}
+
+#contador {
+    position: absolute;
+    left: 20%;
+    top: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 400px;
+    background: rgba(9, 9, 9, 0.149);
+    box-shadow: 0px 1px 0px 4px black;
+    border-radius: 6pt;
+}
+
+button {
+    display: none;
+}
+
+#numeros {
+    position: absolute;
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 1px black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    top: 220px;
+}
+
+.bt {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: -10px;
+    top: 40px;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 100px;
+    border: 1px solid rgb(3, 175, 237);
+    width: 100px;
+    height: 30px;
+    color: black;
+    background: rgb(0, 255, 238);
+    border-radius: 6pt;
+    font-weight: bold;
+    font-size: 20px;
+    top: 213px;
+    box-shadow: 0px 1px 1px 1px black;
+}
+
+.btns:hover {
+    cursor: pointer;
+    background: rgb(253, 233, 3);
+    transition: .7s;
+    border: 1px solid black;
+}
