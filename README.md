@@ -1,2 +1,2 @@
-# Primeiro-repositório-no-github
- Desafio DE PROJETO da DIO_GITHUB. Aprendendo criar repositórios no github.
+# Primeiro-repositório-no-Github
+ Desafio de PROJETO da DIO_GIT/GITHUB. Aprendendo criar repositórios no Github.
