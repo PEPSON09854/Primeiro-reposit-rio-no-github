@@ -5,6 +5,7 @@
     <img aling='center' alt= 'JAVASCRIPT' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
  </div> 
  
+ 
  Neste repositório você também encontrará todas as minhas atividades práticas do curso de JavaScript,
  do BOOTCAMP da TQI FULL STACK DEVELOPER em parceria com a DIO.
   
